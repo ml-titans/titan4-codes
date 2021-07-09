@@ -1,4 +1,4 @@
-# fmnist-sample
+# fmnist-sample in Rust
 
 Fashion MNIST classification sample using TensorFlow Rust bindings.
 
