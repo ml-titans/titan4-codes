@@ -5,5 +5,5 @@
 - Visualization Zoo - 図解や可視化ができること by tomo_makes
 - 競馬とデータ分析 1st season by sonodano
 - [TensorFlow入門者がRustで推論実行するまで](./emergent) by emergent
-- MLPの時代到来!?〜MLP-Mixerを試してみた〜 by kirikei
+- [MLPの時代到来!?〜MLP-Mixerを試してみた〜](./kirikei) by kirikei
 - とある社員の因果分析 by tim
