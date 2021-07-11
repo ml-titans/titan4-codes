@@ -1,0 +1,17 @@
+user = "netkeiba_id"
+passwd = "netkeiba_pw"
+
+[race_list]
+last_updated = "20060101"
+
+[html]
+path = "race_html"
+last_updated = "20060101"
+
+[database]
+host = "host_ip"
+port = "host_port"
+user = "user"
+dbname = "databasename"
+passwd = "databasepasswd"
+sslmode = "true"
