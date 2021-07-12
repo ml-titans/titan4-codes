@@ -6,4 +6,4 @@
 - [競馬とデータ分析 1st](./sonodano) season by sonodano
 - [TensorFlow入門者がRustで推論実行するまで](./emergent) by emergent
 - [MLPの時代到来!?〜MLP-Mixerを試してみた〜](./kirikei) by kirikei
-- とある社員の因果分析 by tim
+- [とある社員の因果分析](./tim) by tim
